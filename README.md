@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Abhishek
 #### I am passionate data science learner
-Currently i am Student pursing Btech CSE with Data science And AI as my specialization✌.I love to do competitive coding.
+Currently i am  a Student pursing Btech CSE with Data science And AI as my specialization✌.I love to do competitive coding.
 
 Skills: JAVA / C / C++ / Python / Julia / Azure
 
